@@ -60,3 +60,6 @@ Project was presented via Zoom to Woz U x Entity Academy.
 
 PowerPoint Presentation:
 * [Animal Shelter Trends for Cats and Dogs](https://github.com/ardita-m/Animal-Shelter-Analysis-Project/tree/main/Presentation)
+
+Vimeo:
+* [Animal Shelter Trends](https://vimeo.com/681061343)
