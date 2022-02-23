@@ -56,3 +56,7 @@ Code - Continued Data Wrangling:
 Prepared visualization created in Tableau. Created draft presentation and included visualizations.
 
 ## Week 6: Presentation Preparation (Feb 24 2022)
+Project was presented via Zoom to Woz U x Entity Academy.
+
+PowerPoint Presentation:
+* [Animal Shelter Trends for Cats and Dogs](https://github.com/ardita-m/Animal-Shelter-Analysis-Project/tree/main/Presentation)
