@@ -15,7 +15,7 @@ We searched for an appropriate animal shelter dataset on Kaggle and Google Datas
 
 Dataset variables:
 * Animal ID and names
-* Intake dates and reasons
+* Intake dates and reasons (i.e. stray)
 * Breeds and species
 * Ages and sex
 * Movement dates and types (i.e. adoption)
