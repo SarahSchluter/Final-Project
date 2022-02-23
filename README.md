@@ -10,7 +10,8 @@ This Final Project will utilize all the information and skills we have been lear
  
 ## Week 1: Project Planning (Jan 17 - Jan 23 2022)
 
-We searched for an appropriate animal shelter dataset on Kaggle and Google Dataset Search. On a related Kaggle search, we found this animal shelter dataset and used it for this project: [City of Bloomington Open Data – Bloomington Animal Shelter](https://bloomington.data.socrata.com/dataset/Animal-Shelter-Animals/e245-r9ub)
+We searched for an appropriate animal shelter dataset on Kaggle and Google Dataset Search. On a related Kaggle search, we found this animal shelter dataset and used it for this project: 
+[City of Bloomington Open Data – Bloomington Animal Shelter](https://bloomington.data.socrata.com/dataset/Animal-Shelter-Animals/e245-r9ub)
 
 Dataset variables:
 * Animal ID and names
